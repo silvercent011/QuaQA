@@ -1,16 +1,12 @@
 # Persona Model Canvas
 
-## Instruções de Preenchimento
-
-Preencha cada seção deste canvas com informações detalhadas sobre a persona que se beneficiará diretamente da solução de IA. Este documento ajudará a orientar e sistematizar a identificação e compreensão das necessidades e expectativas dos usuários na fase de Imersão da metodologia AI Design.
-
 ### 1. Nome da Persona
 
-Marco Tulio Valente, Engenheiro de Software e Gerente de QA
+- Marco Tulio Valente, Engenheiro de Software e Gerente de QA
 
 ### 2. Descrição da Persona
 
-Marco Tulio Valente tem 40 anos, trabalha como Engenheiro de Software e Gerente de QA, é responsável por gerenciar a equipe de QA para garantir a qualidade do software e supervisionar a criação e manutenção de testes de software.
+- Marco Tulio Valente tem 40 anos, trabalha como Engenheiro de Software e Gerente de QA, é responsável por gerenciar a equipe de QA para garantir a qualidade do software e supervisionar a criação e manutenção de testes de software.
 
 ### 3. Necessidades e Expectativas
 
