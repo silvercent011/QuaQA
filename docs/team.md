@@ -1,23 +1,13 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
-layout: home
-
-hero:
-  name: "QuaQA"
-  text: "O patinho do QA"
-  tagline: Automação e padronização na geração de casos de teste de software.
-
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+layout: page
 ---
 
 <script setup>
-import { VPTeamMembers } from 'vitepress/theme'
+import {
+  VPTeamPage,
+  VPTeamPageTitle,
+  VPTeamMembers
+} from 'vitepress/theme'
 
 const members = [
   {
@@ -50,6 +40,9 @@ const members = [
 ]
 </script>
 
-## Diga olá à nossa equipe incrível.
+<VPTeamPage>
 
-<VPTeamMembers size="small" :members="members" />
+<VPTeamMembers
+    :members="members"
+  />
+</VPTeamPage>
