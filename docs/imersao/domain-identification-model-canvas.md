@@ -2,7 +2,7 @@
 
 ### 1. Nome do Domínio
 
-- Geração de Casos de Teste Automatizada para Software
+- QuaQA
 
 ### 2. Descrição do Domínio
 

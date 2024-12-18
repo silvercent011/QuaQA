@@ -6,6 +6,10 @@ export default defineConfig({
   title: "QuaQA",
   description: "O patinho do QA",
   themeConfig: {
+    outline: {
+      level: "deep",
+      label: "Conteúdo",
+    },
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Home", link: "/" },
