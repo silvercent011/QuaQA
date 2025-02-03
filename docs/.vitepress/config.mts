@@ -29,6 +29,10 @@ export default defineConfig({
             text: "Canvas de Objetivos de Projeto",
             link: "/imersao/project-goals-model-canvas",
           },
+          {
+            text: "Persona Model Canvas",
+            link: "/imersao/persona-model-canvas",
+          },
         ],
       },
     ],

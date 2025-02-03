@@ -39,3 +39,5 @@ Essa abordagem estruturada prepara o terreno para a fase de Ideação, onde solu
 [Canvas de Identificação do Domínio](./domain-identification-model-canvas)
 
 [Canvas de Objetivos de Projeto](./project-goals-model-canvas)
+
+[Persona Model Canvas](./persona-model-canvas)
