@@ -35,6 +35,20 @@ export default defineConfig({
           },
         ],
       },
+      {
+        text: "Ideação",
+        link: "/ideacao/",
+        items: [
+          {
+            text: "Canvas de Ideação de Soluções",
+            link: "/ideacao/solution-ideation-model-canvas",
+          },
+          {
+            text: "Canvas de Design de Prompts",
+            link: "/ideacao/prompts-design-model-canvas",
+          },
+        ],
+      },
     ],
 
     socialLinks: [
