@@ -1,0 +1,3 @@
+[submodule "QuaQA-Chat"]
+	path = QuaQA-Chat
+	url = https://github.com/aas8/QuaQA-Chat.git
