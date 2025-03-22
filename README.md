@@ -18,6 +18,7 @@ Instale a extensão via [VSCode Marketplace](https://marketplace.visualstudio.co
 ou instale manualmente seguindo os passos abaixo:
 
 1. Clonar o projeto
+
 ```
 git clone git@github.com:aas8/QuaQA-Chat.git
 
@@ -29,6 +30,7 @@ npm install
 ```
 
 3. Preparar pacote de extensão
+
 ```
 find . -name '*.vsix' -delete && vsce package
 ```
@@ -36,6 +38,7 @@ find . -name '*.vsix' -delete && vsce package
 O comando acima criará um arquivo .vsix na pasta raiz do projeto. Use ele para instalar a extensão no VSCode.
 
 4. Instalar no vscode
+
 ```
 code --install-extension ./nome_do_arquivo.vsix
 ```
@@ -47,8 +50,6 @@ code --install-extension ./nome_do_arquivo.vsix
 
 
 ### Instalação
-
-:
 
 ```bash
 clone o repositório
@@ -66,6 +67,7 @@ make pre-publish
 ```
 
 ### Para publicar a extensão no vscode:
+
 ```
 vsce publish
 
@@ -76,9 +78,10 @@ make publish
 
 ## Uso
 
+
 Como usar:
 
-<video src="media/usage_example.mp4" />
+<video src="./media/usage_example.mp4" />
 
 
 ## Funcionalidades
@@ -110,6 +113,6 @@ Os requisitos para rodar o projeto são:
 
 ## Screenshots
 
-![Screenshot 1](media/screenshot-1.png)
+![Screenshot 1](./media/screenshot-1.png)
 
 ---
