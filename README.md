@@ -78,10 +78,8 @@ make publish
 
 ## Uso
 
+https://github.com/user-attachments/assets/f77c3df7-f868-4f26-8ff4-3fb3dd9ee5bf
 
-Como usar:
-
-<video src="./media/usage_example.mp4" />
 
 
 ## Funcionalidades
@@ -113,6 +111,6 @@ Os requisitos para rodar o projeto são:
 
 ## Screenshots
 
-![Screenshot 1](./media/screenshot-1.png)
+![Captura de tela de 2025-03-22 17-55-32](https://github.com/user-attachments/assets/48feb9b3-35a8-47c8-b2d8-9c9f6e9dfb90)
 
 ---
