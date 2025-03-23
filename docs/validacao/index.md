@@ -33,3 +33,7 @@ Por exemplo, a introdução de um assistente em mercados internacionais pode dem
 A fase de Validação consolida o sucesso do assistente inteligente, assegurando sua escalabilidade, diversificação e relevância em diferentes contextos. Por meio de artefatos como o **Canvas de Planejamento de Escalabilidade**, o **Canvas de Diversificação Funcional** e o **Canvas de Feedback e Iteração**, o sistema é continuamente aprimorado, garantindo alinhamento às necessidades dos usuários e aos objetivos organizacionais. Essa abordagem sistemática estabelece um ciclo virtuoso de inovação e impacto, preparando o assistente para desafios futuros.
 
 [**Fonte**](https://www.linkedin.com/pulse/aidesign-uma-metodologia-estrat%C3%A9gica-para-projetos-de-vinicius-garcia-retef/?trackingId=TpRzei5DS9ucN%2BJnwEtczA%3D%3D)
+
+[**Feedback e Iteração**](./feedback-and-iteration.md)
+[**Canvas de Planejamento de Escalabilidade**](./scalability-planning.md)
+[**Canvas de Planejamento de Diversificação**](./diversification-planning.md)

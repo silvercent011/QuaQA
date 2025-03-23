@@ -71,6 +71,25 @@ export default defineConfig({
           },
         ],
       },
+      {
+        text: "Validação",
+        link: "/validacao/",
+
+        items: [
+          {
+            text: "Feedback e Iteração",
+            link: "/validacao/feedback-and-iteration",
+          },
+          {
+            text: "Planejamento de Escalabilidade",
+            link: "/validacao/scalability-planning",
+          },
+          {
+            text: "Planejamento de Diversificação",
+            link: "/validacao/diversification-planning",
+          },
+        ],
+      },
     ],
 
     socialLinks: [
