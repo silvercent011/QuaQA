@@ -22,15 +22,15 @@ export default defineConfig({
         link: "/imersao/",
         items: [
           {
-            text: "Canvas de Identificação do Domínio",
+            text: "Identificação do Domínio",
             link: "/imersao/domain-identification-model-canvas",
           },
           {
-            text: "Canvas de Objetivos de Projeto",
+            text: "Objetivos de Projeto",
             link: "/imersao/project-goals-model-canvas",
           },
           {
-            text: "Persona Model Canvas",
+            text: "Persona Model",
             link: "/imersao/persona-model-canvas",
           },
         ],
@@ -40,12 +40,34 @@ export default defineConfig({
         link: "/ideacao/",
         items: [
           {
-            text: "Canvas de Ideação de Soluções",
+            text: "Ideação de Soluções",
             link: "/ideacao/solution-ideation-model-canvas",
           },
           {
-            text: "Canvas de Design de Prompts",
+            text: "Design de Prompts",
             link: "/ideacao/prompts-design-model-canvas",
+          },
+        ],
+      },
+      {
+        text: "Produção",
+        link: "/producao/",
+        items: [
+          {
+            text: "Nível de Componente",
+            link: "/producao/component-level",
+          },
+          {
+            text: "Nível de Contêiner",
+            link: "/producao/container-level",
+          },
+          {
+            text: "Nível de Contexto",
+            link: "/producao/context-level",
+          },
+          {
+            text: "Testes e Validação",
+            link: "/producao/testing-and-validation",
           },
         ],
       },
