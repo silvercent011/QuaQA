@@ -35,5 +35,7 @@ A fase de Validação consolida o sucesso do assistente inteligente, assegurando
 [**Fonte**](https://www.linkedin.com/pulse/aidesign-uma-metodologia-estrat%C3%A9gica-para-projetos-de-vinicius-garcia-retef/?trackingId=TpRzei5DS9ucN%2BJnwEtczA%3D%3D)
 
 [**Feedback e Iteração**](./feedback-and-iteration.md)
+
 [**Canvas de Planejamento de Escalabilidade**](./scalability-planning.md)
+
 [**Canvas de Planejamento de Diversificação**](./diversification-planning.md)
