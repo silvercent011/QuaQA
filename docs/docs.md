@@ -11,3 +11,7 @@ Seu navegador não suporta o elemento de vídeo.
 [1. Imersão](./imersao/index)
 
 [2. Ideação](./ideacao/index)
+
+[3. Produção](./producao/index)
+
+[4. Validação](./validacao/index)
