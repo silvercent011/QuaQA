@@ -1,6 +1,7 @@
 :root {
     --vp-c-brand-1: #ffc300;
     --vp-c-brand-2: #ffd60a;
+    --vp-c-brand-3: #827500;
 
     --vp-c-neutral: var(--vp-c-black);
     --vp-c-neutral-inverse: var(--vp-c-white);

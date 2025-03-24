@@ -6,7 +6,12 @@ hero:
   name: "QuaQA"
   text: "O patinho do QA"
   tagline: Automação e padronização na geração de casos de teste de software.
-
+  image:
+    src: /pato.png
+  actions:
+    - theme: brand
+      text: "VS Code Marketplace"
+      link: https://marketplace.visualstudio.com/items?itemName=quaqa-pato.quaqa-chat
 # features:
 #   - title: Feature A
 #     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
