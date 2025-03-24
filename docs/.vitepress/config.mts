@@ -23,6 +23,10 @@ export default defineConfig({
 
         items: [
           {
+            text: "O que é Gherkin?",
+            link: "/implementacao/gherkin",
+          },
+          {
             text: "Decisões Técnicas",
             link: "/implementacao/decisoes",
           },

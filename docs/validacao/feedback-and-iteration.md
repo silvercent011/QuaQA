@@ -15,27 +15,19 @@
 
 - **Usuários Finais:** Desenvolvedores QA, engenheiros de automação
 - **Equipe Interna:** Mantenedores da extensão, testadores
-- **Logs de Sistema:** Erros na geração de features, padrões de uso
 - **Canais Técnicos:** Issues no GitHub, reviews na marketplace do VS Code
 - **Dados de Uso:** Taxa de sucesso na criação de arquivos .feature
 
 ### 3. Métodos de Coleta
 
-- **Feedback In-App:** Botão de "Avaliar Geração" nos arquivos criados
-- **Error Tracking:** Log de exceções durante o processamento
-- **Pesquisas Direcionadas:** Formulário após 5 usos da extensão
-- **Análise de Código:** Monitoramento de padrões nos arquivos .feature gerados
-- **Gravação de Sessões:** Opt-in para capturar interações com o comando
+- **Feedback In-App:** Botão de "like" ou "deslike" nos arquivos criados
 
 ### 4. Categorias de Feedback
 
-| Categoria           | Exemplos Específicos do Código                         |
-| ------------------- | ------------------------------------------------------ |
-| **Funcionalidade**  | Falha na extração do bloco Gherkin (regex atual)       |
-| **Usabilidade**     | Feedback visual durante geração (progresso assíncrono) |
-| **Desempenho**      | Latência na resposta do modelo GPT-4                   |
-| **Precisão**        | Cenários Gherkin não correspondem ao código-fonte      |
-| **Extensibilidade** | Suporte para outras linguagens além de Python          |
+| Categoria           | Exemplos Específicos do Código                   |
+| ------------------- | ------------------------------------------------ |
+| **Funcionalidade**  | Falha na extração do bloco Gherkin (regex atual) |
+| **Extensibilidade** | Suporte para outras linguagens além de Python    |
 
 ### 5. Priorização de Feedback
 
