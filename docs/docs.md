@@ -8,10 +8,14 @@
 Seu navegador não suporta o elemento de vídeo.
 </video>
 
-[1. Imersão](./imersao/index)
+## Guia
 
-[2. Ideação](./ideacao/index)
+[1. Implementação](./implementacao/index)
 
-[3. Produção](./producao/index)
+[2. Imersão](./imersao/index)
 
-[4. Validação](./validacao/index)
+[3. Ideação](./ideacao/index)
+
+[4. Produção](./producao/index)
+
+[5. Validação](./validacao/index)

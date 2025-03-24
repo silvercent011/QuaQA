@@ -18,6 +18,21 @@ export default defineConfig({
 
     sidebar: [
       {
+        text: "Implementação",
+        link: "/implementacao/",
+
+        items: [
+          {
+            text: "Decisões Técnicas",
+            link: "/implementacao/decisoes",
+          },
+          {
+            text: "Dificuldades e Limitações",
+            link: "/implementacao/dificuldade",
+          },
+        ],
+      },
+      {
         text: "Imersão",
         link: "/imersao/",
         items: [

@@ -12,6 +12,9 @@ hero:
     - theme: brand
       text: "VS Code Marketplace"
       link: https://marketplace.visualstudio.com/items?itemName=quaqa-pato.quaqa-chat
+    - theme: secondary
+      link: "/docs"
+      text: "Documentação"
 # features:
 #   - title: Feature A
 #     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
